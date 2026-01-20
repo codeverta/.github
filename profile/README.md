@@ -12,12 +12,12 @@ Professional website creation, repair, development services, and IT solutions to
 <a href="#projects">Portfolio</a> •
 <a href="#services">Services</a> •
 <a href="#pricing">Pricing</a> •
-<a href="[https://wa.me/your-number](https://wa.me/your-number)">WhatsApp Us</a>
+<a href="https://wa.me/6285601347820">WhatsApp Us</a>
 </p>
 
 ---
 
-## 🚀 About Us
+## About Us
 
 Kami menyediakan solusi IT profesional mulai dari pembuatan hingga perbaikan sistem untuk UMKM, Startup, dan Pemerintah. Berlokasi di **Sleman, Yogyakarta**, kami fokus pada performa tinggi dan skalabilitas.
 
@@ -25,7 +25,7 @@ Kami menyediakan solusi IT profesional mulai dari pembuatan hingga perbaikan sis
 * ✅ **Satisfaction Guarantee**
 * ✅ **Honest & Reliable**
 
-## 🛠 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 Kami membangun sistem menggunakan teknologi modern untuk menjamin performa maksimal:
 
@@ -36,7 +36,7 @@ Kami membangun sistem menggunakan teknologi modern untuk menjamin performa maksi
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Kami membangun sistem menggunakan teknologi modern untuk menjamin performa maksi
 
 ---
 
-## 💼 Our Services
+## Our Services
 
 * **Custom Web Development:** ERP, HRMS, CRM, dan E-Learning.
 * **WebGIS Platform:** Pemetaan dan analisis spasial berbasis web.
@@ -55,7 +55,7 @@ Kami membangun sistem menggunakan teknologi modern untuk menjamin performa maksi
 
 ---
 
-## 📈 Development Process
+## Development Process
 
 1. **Consultation:** Diskusi kebutuhan spesifik (Online/Offline).
 2. **Design & Dev:** Proses pembangunan sistem sesuai standar kualitas startup.
@@ -63,24 +63,13 @@ Kami membangun sistem menggunakan teknologi modern untuk menjamin performa maksi
 
 ---
 
-## 💰 Pricing Plans
-
-| Paket Website UMKM | Paket Toko Online | Paket Sistem Custom |
-| --- | --- | --- |
-| **Rp 2 Juta** | **Rp 5 Juta** | **Rp 10+ Juta** |
-| Custom Design | SEO Optimization | Enterprise Features |
-| Basic Features | Priority Support | Monthly Performance Report |
-| Free Domain/Hosting | Best for Scalability | 1+ Year Maintenance |
-
----
-
-## 📞 Get In Touch
+## Get In Touch
 
 Siap membangun kehadiran digital yang kuat?
 
-* 📍 **Office:** Jl Kaliurang KM 9.3, Ngaglik, Sleman, Yogyakarta.
-* 💬 **WhatsApp:** [Hubungi Kami Sekarang](https://wa.me/your-number)
-* 🌐 **Consultation:** Gratis konsultasi via Meetup/Zoom.
+* **Office:** Jl Kaliurang KM 9.3, Ngaglik, Sleman, Yogyakarta.
+* **WhatsApp:** [Hubungi Kami Sekarang](https://wa.me/6285601347820)
+* **Consultation:** Gratis konsultasi via Meetup/Zoom.
 
 ---
 

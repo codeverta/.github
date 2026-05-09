@@ -12,7 +12,6 @@ Professional website creation, repair, development services, and IT solutions to
 <a href="#projects">Portfolio</a> •
 <a href="#services">Services</a> •
 <a href="#pricing">Pricing</a> •
-<a href="https://wa.me/6285601347820">WhatsApp Us</a>
 </p>
 
 ---
@@ -67,8 +66,7 @@ Kami membangun sistem menggunakan teknologi modern untuk menjamin performa maksi
 
 Siap membangun kehadiran digital yang kuat?
 
-* **Office:** Jl Kaliurang KM 9.3, Ngaglik, Sleman, Yogyakarta.
-* **WhatsApp:** [Hubungi Kami Sekarang](https://wa.me/6285601347820)
+* **Office:** Yogyakarta & Bekasi.
 * **Consultation:** Gratis konsultasi via Meetup/Zoom.
 
 ---
